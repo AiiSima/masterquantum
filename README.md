@@ -35,61 +35,61 @@ Support <b>All features are responsive (mobile & desktop)</b>.
 
 <h3>🎯 Phishing Tools</h3>
 <ul>
-  <li> ⌬ Facebook, Instagram, Google, Microsoft, Netflix</li>
-  <li> ⌬ PayPal, Steam, Twitter, PlayStation, GitHub</li>
-  <li> ⌬ Twitch, Pinterest, Snapchat, LinkedIn, eBay</li>
-  <li> ⌬ Dropbox, ProtonMail, Spotify, Reddit, Adobe</li>
-  <li> ⌬ DeviantArt, Badoo, Origin, Crypto, Yahoo</li>
-  <li> ⌬ WordPress, Yandex, VK</li>
+  <li>Facebook, Instagram, Google, Microsoft, Netflix</li>
+  <li>PayPal, Steam, Twitter, PlayStation, GitHub</li>
+  <li>Twitch, Pinterest, Snapchat, LinkedIn, eBay</li>
+  <li>Dropbox, ProtonMail, Spotify, Reddit, Adobe</li>
+  <li>DeviantArt, Badoo, Origin, Crypto, Yahoo</li>
+  <li>WordPress, Yandex, VK</li>
 </ul>
 
 <h3>📟  Automatic Configuration System</h3>
 <ul>
-  <li> ⌬ Auto-detect dan install dependencies</li>
-  <li> ⌬ Auto-setup ngrok dengan token management</li>
-  <li> ⌬ Auto-port configuration (default: 8080)</li>
-  <li> ⌬ Auto-backup system untuk templates</li>
-  <li> ⌬ Auto-permission setting untuk semua file</li>
+  <li>Auto-detect dan install dependencies</li>
+  <li>Auto-setup ngrok dengan token management</li>
+  <li>Auto-port configuration (default: 8080)</li>
+  <li>Auto-backup system untuk templates</li>
+  <li>Auto-permission setting untuk semua file</li>
 </ul>
 
 <h3>🌐 Server Management</h3>
 <ul>
-  <li> ⌬ Local Server: http://localhost:8080</li>
-  <li> ⌬ Network Server: http://[IP-LAN]:8080</li>
-  <li> ⌬ Public Server via Ngrok: https://[random].ngrok.io</li>
-  <li> ⌬ Multi-user support (banyak user bisa akses bersamaan)</li>
+  <li>Local Server: http://localhost:8080</li>
+  <li>Network Server: http://[IP-LAN]:8080</li>
+  <li>Public Server via Ngrok: https://[random].ngrok.io</li>
+  <li>Multi-user support (banyak user bisa akses bersamaan)</li>
 </ul>
 
 <h3>🔒 Data Collection Features</h3>
 <ul>
-  <li> ⌬ Email/Username</li>
-  <li> ⌬ Password</li>
-  <li> ⌬ IP Address</li>
-  <li> ⌬ User Agent</li>
-  <li> ⌬ Geolocation data</lu>
-  <li> ⌬ Referrer URL</li>
-  <li> ⌬ Timestamp (lengkap)</li>
-  <li> ⌬ Session data</li>
+  <li>Email/Username</li>
+  <li>Password</li>
+  <li>IP Address</li>
+  <li>User Agent</li>
+  <li>Geolocation data</lu>
+  <li>Referrer URL</li>
+  <li>Timestamp (lengkap)</li>
+  <li>Session data</li>
 </ul>
 
 <hr>
 
 <h2>🛡️ Security Features</h2>
 <ul>
-  <li> ⌬ Local data storage only</li>
-  <li> ⌬ No external data leaks</li>
-  <li> ⌬ Encryption support</li>
-  <li> ⌬ Access control</li>
+  <li>Local data storage only</li>
+  <li>No external data leaks</li>
+  <li>Encryption support</li>
+  <li>Access control</li>
 </ul>
 
 <hr>
 
 <h2>🔧 Technical Features</h2>
 <ul>
-  <li> ⌬ Optimized untuk Termux</li>
-  <li> ⌬ Support Android 5+</li>
-  <li> ⌬ Linux compatibility</li>
-  <li> ⌬ Windows via WSL</li>
+  <li>Optimized untuk Termux</li>
+  <li>Support Android 5+</li>
+  <li>Linux compatibility</li>
+  <li>Windows via WSL</li>
 </ul>
 
 <hr>

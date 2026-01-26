@@ -57,7 +57,7 @@ RESET='\033[0m'
 # Banner
 banner() {
     clear
-    printf "${BLUE}
+    printf "${RED}
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡇⠀⠀⠀⣀⠀⠀⠀⠀⢀⣤⣾⠃
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⡤⣀⣴⣿⣥⣶⣞⣤⣾⣿⡿⠃⠀⣠⠄
@@ -77,10 +77,13 @@ banner() {
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡇⠀⠀⠀⠀⠀⠀⣠⠃
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠄⣀⣀⣀⣠⣾⠡
+
 ${RESET}"
-    printf "    ${RED}Version 1.0${RESET}\n"
-    printf "    ${YELLOW}Created by htr-tech (tahmid.rayat)${RESET}\n"
-    printf "    ${CYAN}Modified by MasterQuantum${RESET}\n\n"
+    printf "    ${WHITE}Created By AiiSima${RESET}\n"
+    printf "    ${YELLOW}Telegram : https://t.me/AiiSimaRajaIblis${RESET}\n"
+    printf "    ${BLUE}YouTube : https://www.youtube.com/@simaV1-9${RESET}\n\n"
+    printf "    ${CYAN}GitHub : https://github.com/AiiSima${RESET}\n\n"
+    printf "    ${CYAN}v1.0${RESET}\n\n"    
 }
 
 # Server

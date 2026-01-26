@@ -1,0 +1,17 @@
+=========================
+GET DATA CAPTURED
+=========================
+IP: 192.168.1.100
+Time: 2024-01-26 14:30:22
+URL: /?site=facebook
+User Agent: Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36
+=========================
+
+=========================
+GET DATA CAPTURED
+=========================
+IP: 192.168.1.101
+Time: 2024-01-26 14:35:18
+URL: /?site=instagram
+User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+=========================

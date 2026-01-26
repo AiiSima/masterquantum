@@ -1,0 +1,23 @@
+=========================
+VICTIM CREDENTIALS CAPTURED
+=========================
+Site: FACEBOOK
+Email/Username: user@example.com
+Password: Password123!
+IP Address: 192.168.1.100
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+Referer: http://localhost:8080/?site=facebook
+Time: 2024-01-26 14:31:45
+=========================
+
+=========================
+VICTIM CREDENTIALS CAPTURED
+=========================
+Site: INSTAGRAM
+Email/Username: insta_user
+Password: InstaPass2024
+IP Address: 192.168.1.101
+User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X)
+Referer: http://localhost:8080/?site=instagram
+Time: 2024-01-26 14:36:22
+=========================

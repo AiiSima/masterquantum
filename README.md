@@ -1,11 +1,12 @@
-<h1 align="center">Phishing Script 29 Tools</h1>
+<h1 align="center">Phishing Script</h1>
 <h5 align="center">(Programming Language - Shell & Php)</h5>
 
 <p align="center">
-  <img alt="stars" src="https://badgen.net/github/stars/Naereen/Strapdown.js">
-  <img alt="forks" src="https://badgen.net/github/forks/Naereen/Strapdown.js">
-  <img alt="license" src="https://badgen.net/github/license/Naereen/Strapdown.js">
-  <img alt="js" src="https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg">
+  <img alt="Stars" src="https://img.shields.io/badge/Stars-10k-8B5CF6">
+  <img alt="Works" src="https://img.shields.io/badge/Works-10k-10B981">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-F59E0B">
+  <img alt="Shell" src="https://img.shields.io/badge/With-Shell-3B82F6">
+  <img alt="BugBounty" src="https://img.shields.io/badge/Phising-Quantum-EF4444">
 </p>
 
 <p align="center">Please Use Wisely!</p>
@@ -94,20 +95,17 @@ Support <b>All features are responsive (mobile & desktop)</b>.
 
 <hr>
 
-<h2 align="center">Our Social Media 💻</h2>
-<p align="center"><b>Don't use the Issues tab to ask questions!</b></p>
-
 <p align="center">
   <a href="https://github.com/AiiSima" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" alt="GitHub">
+    <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002953.png" width="40" alt="GitHub">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/AiiSimaRajaIblis" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" alt="Telegram">
+    <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002805.png" width="40" alt="Telegram">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@simaV1-9" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="40" alt="YouTube">
+    <img src="https://github.com/AiiSima/Assets/blob/main/20260129_002719.png" width="40" alt="YouTube">
   </a>
 </p>
 

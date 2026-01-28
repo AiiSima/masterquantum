@@ -2,8 +2,8 @@
 <h5 align="center">(Programming Language - Shell & Php)</h5>
 
 <p align="center">
-  <img alt="Stars" src="https://img.shields.io/badge/Stars-10k-8B5CF6">
-  <img alt="Works" src="https://img.shields.io/badge/Works-10k-10B981">
+  <img alt="Stars" src="https://img.shields.io/badge/Stars-10,129-8B5CF6">
+  <img alt="Works" src="https://img.shields.io/badge/Works-10,819-10B981">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-F59E0B">
   <img alt="Shell" src="https://img.shields.io/badge/With-Shell-3B82F6">
   <img alt="BugBounty" src="https://img.shields.io/badge/Phising-Quantum-EF4444">
